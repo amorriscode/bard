@@ -15,6 +15,7 @@ module.exports = {
   variants: {
     extend: {
       cursor: ['hover'],
+      padding: ['first'],
     },
   },
   plugins: [],
