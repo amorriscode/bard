@@ -1,34 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# bard
+
+The Internet is filled with great content. But not all great content is rewarded.
+
+Bard is a tool designed for writers around the world to earn an income from their words. It's meant to be lightweight, easy to use, and just flexible *enough*. Everything is in service of the words on the page.
+
+Gone are the days of needing a developer to deploy, maintain, and tweak your website. Gone are the days of giving your up a share of your earnings.
+
+Focus on your work, let Bard handle the rest.
+
+## Features
+
+- **Bring Your Own Data:** Deploy Bard with a SQL database or integrate with your favorite CMS
+- **Make It Yours:** Drag and drop your way to a custom home on the web
+- **Members Only:** Create content that only subscribers can see
+- **Don't Share Profits:** Pay payment processing fees, keep the rest
 
 ## Getting Started
 
-First, run the development server:
+Easy as 1,2,3! 🚀
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+1. Clone this repo:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+    ```bash
+    git clone git@github.com:amorriscode/bard.git
+    ```
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+2. Install your dependencies:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+    ```bash
+    yarn install
+    ```
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+3. Run the development server:
 
-## Learn More
+    ```bash
+    yarn dev
+    ```
 
-To learn more about Next.js, take a look at the following resources:
+## Alternatives
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+We'd be lying if we said we weren't heavily inspired by the work that [Ghost](https://ghost.org) is doing. Still, it's not for everyone. If you're looking for more features, chances are they have it. Be sure to give them a look!
