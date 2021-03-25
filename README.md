@@ -14,6 +14,7 @@ Focus on your work, let Bard handle the rest.
 - **Make It Yours:** Drag and drop your way to a custom home on the web
 - **Members Only:** Create content that only subscribers can see
 - **Don't Share Profits:** Pay payment processing fees, keep the rest
+- **Content On Demand:** Fast search using [Stork](https://stork-search.net/)
 
 ## Getting Started
 
